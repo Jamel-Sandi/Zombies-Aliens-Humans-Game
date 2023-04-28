@@ -1,0 +1,7 @@
+Tamaño =20;         
+Edificios(E) =20;
+Arboles(T) =20;
+Aliens(A) =15;
+Zombies(Z) =15;
+Humanos(H) =15;
+Pócimas(P) =15;
